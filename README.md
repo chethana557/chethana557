@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently Studying at **General Sir John Kothelawala Defence University**
 
-- 🌱 I’m currently learning **React,Angular**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
