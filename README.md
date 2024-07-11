@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently Studying at **General Sir John Kothelawala Defence University**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Test Automation**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
-- 💬 Ask me about **React,Java,Python**
+- 💬 Ask me about **React,Java**
 
 - 📫 How to reach me **chethanasankalpa0016@gmail.com**
 
