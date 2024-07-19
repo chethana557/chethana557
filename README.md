@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web development Projects**
 
-- 💬 Ask me about **React,Java**
+- 💬 Ask me about **Cypress**
 
 - 📫 How to reach me **chethanasankalpa0016@gmail.com**
 
