@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently Studying at **General Sir John Kothelawala Defence University**
+- 🔭 I’m currently Working at **Zuse Technologies**
 
 - 🌱 I’m currently learning **Test Automation**
 
